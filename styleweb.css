@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    text-align: center;
+    color: green;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 250%;
+  }
+  
+  p1 {
+    color: black;
+    font-size: 150%;
+  }
+  p {
+    text-align: center;
+    color: black;
+    font-size: 220%;
+
+  }
+  
+  ol {
+    font-size: 120%;
+  }
+  
+  ul {
+    font-size: 120%;
+  }
+  
+  table {
+    text-align: left;
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    padding: 8px;
+  }
+  
